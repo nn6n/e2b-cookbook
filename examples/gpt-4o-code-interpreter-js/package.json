@@ -13,7 +13,7 @@
     "@types/node": "^20.12.11",
     "ts-node": "^10.9.2",
     "tsx": "^4.9.3",
-    "typescript": "^5.4.5"
+    "typescript": "^5.8.3"
   },
   "dependencies": {
     "@e2b/code-interpreter": "^1.0.1",
