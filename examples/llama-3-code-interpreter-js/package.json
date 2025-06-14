@@ -13,8 +13,8 @@
   "devDependencies": {
     "@types/node": "^17.0.12",
     "autoprefixer": "^10.4.14",
-    "eslint": "^7.32.0",
-    "eslint-config-next": "13.4.12",
+    "eslint": "^9.4.0",
+    "eslint-config-next": "15.0.0",
     "tsx": "^4.9.3",
     "typescript": "5.1.3"
   }
